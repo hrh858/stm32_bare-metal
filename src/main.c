@@ -1,3 +1,4 @@
-void main(void) {
+int main(void) {
   for (;;) {}
+  return 0;
 }
